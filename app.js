@@ -1,0 +1,1 @@
+document.getElementById('minimum').addEventListener('click', minimumTest);
